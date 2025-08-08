@@ -8,4 +8,7 @@ A Desktop application which you can use as a replacement to notepad
 
 ## Development 
 - Made using C#(WinForms) in Visual Studio 2022. 
-- Source code is availabe in a seperate repository 
+- Source code is availabe in a seperate repository
+
+## Using it
+- Its simple. Download as zip. Click on VeryQuickNotes.exe. Boom!!
